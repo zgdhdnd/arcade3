@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 150" width="240" height="150">
+  <rect width="240" height="150" fill="#ece7ff"/>
+  <rect x="58" y="13" width="124" height="124" rx="10" fill="#d7d3e4"/>
+  <g font-family="Georgia, serif" font-weight="700" text-anchor="middle">
+    <rect x="66" y="21" width="24" height="24" rx="4" fill="#f4f0ff"/>
+    <rect x="94" y="21" width="24" height="24" rx="4" fill="#ffffff" opacity=".6"/>
+    <rect x="122" y="21" width="24" height="24" rx="4" fill="#cbbbfb"/>
+    <rect x="150" y="21" width="24" height="24" rx="4" fill="#ffffff" opacity=".6"/>
+    <rect x="66" y="49" width="24" height="24" rx="4" fill="#ffffff" opacity=".6"/>
+    <rect x="94" y="49" width="24" height="24" rx="4" fill="#977af0"/>
+    <rect x="122" y="49" width="24" height="24" rx="4" fill="#ffffff" opacity=".6"/>
+    <rect x="150" y="49" width="24" height="24" rx="4" fill="#e1d7fe"/>
+    <rect x="66" y="77" width="24" height="24" rx="4" fill="#ffffff" opacity=".6"/>
+    <rect x="94" y="77" width="24" height="24" rx="4" fill="#5a36c9"/>
+    <rect x="122" y="77" width="24" height="24" rx="4" fill="#7552e0"/>
+    <rect x="150" y="77" width="24" height="24" rx="4" fill="#ffffff" opacity=".6"/>
+    <rect x="66" y="105" width="52" height="24" rx="4" fill="#241264"/>
+    <rect x="122" y="105" width="24" height="24" rx="4" fill="#b39cf7"/>
+    <rect x="150" y="105" width="24" height="24" rx="4" fill="#f4f0ff"/>
+    <text x="78" y="38" font-size="12" fill="#1a1726">2</text>
+    <text x="134" y="38" font-size="12" fill="#1a1726">8</text>
+    <text x="106" y="66" font-size="11" fill="#1a1726">32</text>
+    <text x="162" y="66" font-size="12" fill="#1a1726">4</text>
+    <text x="106" y="93" font-size="9" fill="#ffffff">128</text>
+    <text x="134" y="94" font-size="11" fill="#ffffff">64</text>
+    <text x="92" y="122" font-size="13" fill="#ffffff">2048</text>
+    <text x="134" y="122" font-size="11" fill="#1a1726">16</text>
+    <text x="162" y="122" font-size="12" fill="#1a1726">2</text>
+  </g>
+</svg>
